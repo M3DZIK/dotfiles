@@ -6,7 +6,7 @@ My Linux dotfiles.
 
 ### Theme ([starship](https://starship.rs))
 
-image.png
+![image](https://user-images.githubusercontent.com/87065584/219962347-77ea34e2-a056-43de-8065-1f8c63d02068.png)
 
 ### Plugins
 
