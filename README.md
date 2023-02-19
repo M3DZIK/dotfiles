@@ -56,3 +56,9 @@ I use New UI for IntelliJ, you can enable it in settings in `Appearance & Behavi
 
 - [Atom Material Icons](https://plugins.jetbrains.com/plugin/10044-atom-material-icons)
 - [InlineError](https://plugins.jetbrains.com/plugin/17302-inlineerror)
+
+## Firefox
+
+### Theme ([Adwaita](https://github.com/rafaelmardojai/firefox-gnome-theme))
+
+![image](https://user-images.githubusercontent.com/87065584/219963796-e9d2f096-68c2-476e-a8b2-b39e2bf85593.png)
