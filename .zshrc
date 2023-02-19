@@ -47,6 +47,6 @@ alias dnfli='dnf list --installed'
 # flatpak
 alias codium='flatpak run com.vscodium.codium'
 alias code='codium'
-alias idea='com.jetbrains.IntelliJ-IDEA-Ultimate'
+alias idea='flatpak run com.jetbrains.IntelliJ-IDEA-Ultimate'
 # hacks
 alias ..='cd ..'
