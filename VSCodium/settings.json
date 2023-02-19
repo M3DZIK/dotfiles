@@ -1,0 +1,130 @@
+{
+    "editor.codeLens": false,
+    "editor.fontFamily": "Fira Code Medium",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 14,
+    // "search.exclude": {
+    //     "**/node_modules": true,
+    //     "**/bower_components": true,
+    //     "**/dist": true
+    // },
+    // "files.exclude": {
+    //     // Git directory
+    //     "**/.git": true,
+    //     // MacOS special file
+    //     "**/.DS_Store": true,
+    //     // Cache directory
+    //     "**/.cache": true,
+    //     // Node.js Modules
+    //     "**/node_modules": true,
+    //     // Cargo output
+    //     "**/target": true,
+    // },
+    // "editor.suggestSelection": "first",
+    // "typescript.updateImportsOnFileMove.enabled": "always",
+    // "editor.tabSize": 4,
+    "editor.formatOnPaste": true,
+    "editor.letterSpacing": 0,
+    "editor.lineHeight": 19,
+    "editor.lineNumbers": "on",
+    "editor.minimap.enabled": false,
+    "editor.renderLineHighlight": "none",
+    // "editor.quickSuggestionsDelay": 0,
+    // "breadcrumbs.enabled": false,
+    // "workbench.iconTheme": "icons",
+    // "workbench.productIconTheme": "adwaita",
+    // "javascript.updateImportsOnFileMove.enabled": "always",
+    // "materialTheme.accent": "Pink",
+    // "security.workspace.trust.enabled": false,
+    // "security.workspace.trust.emptyWindow": false,
+    // "files.autoSave": "afterDelay",
+    // "files.autoSaveDelay": 1000,
+    // "update.mode": "none",
+    // "svg.preview.mode": "svg",
+    // // use system `rust-analyzer` installation
+    // //"rust-analyzer.server.path": "/usr/bin/rust-analyzer",
+    // "rust-analyzer.diagnostics.disabled": [
+    //     "unresolved-proc-macro"
+    // ],
+    // "rust-analyzer.rustfmt.extraArgs": ["+nightly"],
+    // "tabnine.experimentalAutoImports": true,
+    // "workbench.colorTheme": "Adwaita Light",
+    // "sync.gist": "4b5306920799026cb4806643b89cdbf6",
+    // "sync.autoUpload": true,
+    // // "window.menuBarVisibility": "compact",
+    // // format on save
+    // "[rust]": {
+    //     "editor.defaultFormatter": "rust-lang.rust-analyzer",
+    //     "editor.formatOnSave": true
+    // },
+    "editor.renderWhitespace": "all",
+    "editor.suggestFontSize": 16,
+    "editor.suggestLineHeight": 28,
+    "editor.tabSize": 4,
+    // "window.titleBarStyle": "custom",
+    // "window.title": "${activeEditorMedium}${separator}${rootName} ${dirty}",
+    "editor.tokenColorCustomizations": {
+        // sets the colors and styles for comments
+        "comments": "#999999"
+    },
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1000,
+    "files.trimFinalNewlines": true,
+    // "editor.renderWhitespace": "all",
+    // "editor.fontSize": 14,
+    // "editor.lineHeight": 19,
+    // "editor.letterSpacing": -0,
+    // "editor.fontFamily": "Fira Code Medium",
+    // "editor.suggestFontSize": 16,
+    // "editor.suggestLineHeight": 28,
+    // "editor.renderLineHighlight": "none",
+    // "editor.lineNumbers": "on",
+    // "editor.minimap.enabled": false,
+    // "editor.codeLens": false,
+    // "editor.fontLigatures": true,
+    "files.trimTrailingWhitespace": true,
+    "terminal.integrated.cursorBlinking": false,
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.defaultProfile.linux": "zsh",
+    "terminal.integrated.fontSize": 15,
+    "terminal.integrated.lineHeight": 1.5,
+    "terminal.integrated.profiles.linux": {
+        "zsh": {
+            "args": [
+                "zsh"
+            ],
+            "path": "/home/medzik/go/bin/host-spawn"
+        }
+    },
+    "window.autoDetectColorScheme": true,
+    "window.commandCenter": true,
+    "window.menuBarVisibility": "toggle",
+    "workbench.colorTheme": "Adwaita Dark",
+    // "workbench.colorCustomizations": {
+    //     // Color of editor active line number
+    //     "editorLineNumber.activeForeground": "#ffffff",
+    //     // Color of editor line numbers
+    //     "editorLineNumber.foreground": "#777777",
+    //     // Foreground color of inline hints
+    //     "editorInlayHint.foreground": "#868686f0",
+    //     // Background color of inline hints
+    //     "editorInlayHint.background": "#3d3d3d48",
+    //     // rust-analyzer types color
+    //     // Foreground color of inline hints for types
+    //     "editorInlayHint.typeForeground": "#fb6b90", // or fb4570
+    //     // Foreground color of inline hints for parameters
+    //     "editorInlayHint.parameterForeground": "#fb6b90",
+    //     // GitLens blame color
+    //     // https://github.com/gitkraken/vscode-gitlens/issues/1089#issuecomment-675109373
+    //     "gitlens.trailingLineForegroundColor": "#575757f0",
+    // },
+    // "workbench.editor.showTabs": false,
+    "workbench.iconTheme": "minimalistic-icons",
+    "workbench.preferredDarkColorTheme": "Adwaita Dark",
+    "workbench.preferredLightColorTheme": "Adwaita Light",
+    "workbench.productIconTheme": "adwaita",
+    // "workbench.startupEditor": "none",
+    "workbench.sideBar.location": "left",
+    "workbench.tree.indent": 12,
+    "tabnine.experimentalAutoImports": true
+}
