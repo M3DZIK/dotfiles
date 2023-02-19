@@ -62,3 +62,16 @@ I use New UI for IntelliJ, you can enable it in settings in `Appearance & Behavi
 ### Theme ([Adwaita](https://github.com/rafaelmardojai/firefox-gnome-theme))
 
 ![image](https://user-images.githubusercontent.com/87065584/219963796-e9d2f096-68c2-476e-a8b2-b39e2bf85593.png)
+
+## GNOME
+
+![image](https://user-images.githubusercontent.com/87065584/219963904-269bfb72-2f36-49e0-a2f4-5fcbd7211cb6.png)
+
+### Extensions
+
+- [AppIndicator and KStatusNotifierItem Sypport](https://github.com/ubuntu/gnome-shell-extension-appindicator)
+- [Blur my Shell](https://github.com/aunetx/blur-my-shell)
+
+## About my system
+
+![image](https://user-images.githubusercontent.com/87065584/219964122-00e9a202-f1cc-4890-a5df-9357df986556.png)
