@@ -35,9 +35,9 @@ I use New UI for IntelliJ, you can enable it in settings in `Appearance & Behavi
 
 ![image](https://github.com/M3DZIK/dotfiles/assets/87065584/32b0deef-304c-4bf3-bf81-7418329c41dd)
 
-Theme: **Layan Dark**
-QT Theme: **Kvantum** with **Layan**
-GTK Theme: **Layan Dark**
+- KDE Theme: **Layan Dark**
+- QT Theme: **Kvantum** with **Layan**
+- GTK Theme: **Layan Dark**
 
 To configure themes in flatpak, run these commands:
 ```bash
