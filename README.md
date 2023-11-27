@@ -2,56 +2,36 @@
 
 My Linux dotfiles.
 
-## Fish
+![desktop screenshot](https://github.com/M3DZIK/dotfiles/assets/87065584/96cef135-6764-4ee1-8a07-c0c94bdaed7e)
 
-### Theme ([starship](https://starship.rs))
+## ZSH
 
-![image](https://github.com/M3DZIK/dotfiles/assets/87065584/95c75e69-61bf-43a5-968b-2b302f7e301d)
+Theme: oh-my-zsh
 
-### Aliases
+![screenshot from terminal with oh-my-zsh](https://github.com/M3DZIK/dotfiles/assets/87065584/4a9c1756-9cea-469b-8de3-e0fa22829095)
 
-#### General
-- `ls` -> `exa --icons`
-- `la` -> ` ls -a`
+## IntelliJ IDEA
 
-#### Dnf
-- `dnfi` -> `sudo dnf install`
-- `dnfr` -> `sudo dnf remove`
-- `dnfs` -> `sudo dnf search`
-- `dnfu` -> `sudo dnf upgrade`
-- `dnfli` -> `dnf list --installed`
+Theme: Atom One Dark Compact
 
-## IntelliJ IDEA Ultimate Edition
-
-I use New UI for IntelliJ, you can enable it in settings in `Appearance & Behavior -> New UI (Beta)`
-
-![image](https://github.com/M3DZIK/dotfiles/assets/87065584/8f1afa51-2381-4bf9-a4c3-d43ec41112d1)
+![intellij idea screenshot](https://github.com/M3DZIK/dotfiles/assets/87065584/fee8f99c-59b9-47f2-9036-5b2396c21c88)
 
 ### Plugins
 
-![image](https://github.com/M3DZIK/dotfiles/assets/87065584/41e26981-ab07-4d1c-b168-6f004f0a3105)
+![intellij idea plugins](https://github.com/M3DZIK/dotfiles/assets/87065584/f0f18a16-c629-408c-9d44-1901aecc5c02)
 
 ## KDE
 
-![image](https://github.com/M3DZIK/dotfiles/assets/87065584/32b0deef-304c-4bf3-bf81-7418329c41dd)
+![kde screenshot](https://github.com/M3DZIK/dotfiles/assets/87065584/bd313fc4-24cd-4e80-abdf-ff76a2743897)
 
-- KDE Theme: **Layan Dark**
-- QT Theme: **Kvantum** with **Layan**
-- GTK Theme: **Layan Dark**
+- KDE Theme: **Dracula**
+- QT Theme: **Dracula**
+- GTK Theme: **Dracula**
+- Icons: **Papirus**
 
-To configure themes in flatpak, run these commands:
+To configure the theme in flatpak, run these commands:
 ```bash
-# Gtk - Layan-Dark
 sudo flatpak override --filesystem=$HOME/.themes
-sudo flatpak override --env=GTK_STYLE_OVERRIDE=Layan-Dark
-sudo flatpak override --env=GTK_THEME=Layan-Dark
-
-# QT - Kvantum
-flatpak install org.kde.KStyle.Kvantum
-sudo flatpak override --filesystem=xdg-config/Kvantum:ro
-sudo flatpak override --env=QT_STYLE_OVERRIDE=kvantum
+sudo flatpak override --env=GTK_STYLE_OVERRIDE=Dracula
+sudo flatpak override --env=GTK_THEME=Dracula
 ```
-
-## About my system
-
-![image](https://github.com/M3DZIK/dotfiles/assets/87065584/4f59ac4e-7eca-4531-a1e2-ff161e777fcd)
